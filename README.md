@@ -1,8 +1,8 @@
-Documentatie
+# Documentație
 
 [Căsuță_pisici_AOC.pdf](https://github.com/user-attachments/files/25873286/Casu.a_pisici_AOC.pdf)
 
-Poze cu proiectul
+# Poze cu proiectul
 
 ![WhatsApp Image 2026-03-10 at 16 44 35](https://github.com/user-attachments/assets/9fad8d09-6a7e-4758-bacd-0a56de8f9c66)
 ![WhatsApp Image 2026-03-10 at 16 44 35 (1)](https://github.com/user-attachments/assets/99a49da0-73eb-4695-a5f1-497f033c009b)
